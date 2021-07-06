@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-My name is Rosa! I am a Jr.Front-End Developer. I have a background in the documentary world as a filmmaker and screenwriter and....yet, I have decided to turn my life around and immerse myself in the world of web development! I'm loving it and I do belive that in every App, web or desing to apply there is a story to tell in order to get the best user experience  possible. 
+My name is Rosa! I am a Jr.Front-End Developer. I have a background in the documentary world as a filmmaker and screenwriter and....yet, I have decided to turn my life around and immerse myself in the world of web development! 
+I'm loving it and I do belive that in every App, web or desing to apply there is a story to tell in order to get the best user experience  possible. 
+
+
+
+
 
 
 
