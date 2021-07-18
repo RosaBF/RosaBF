@@ -14,7 +14,7 @@ I'm loving it and I do belive that in every App, web or desing to apply there is
 
 - 🔭 I’m currently looking for my first experience as a Jr.Front-End Developer
 - 🌱 I’m currently securing my last learnings with JS, React, CSS and Back end
-- 💬 Ask me about movies, one of my pasions!
+- 💬 Ask me about movies, one of my passions!
 <hr/>
 
 ### :postbox: How to reach me:
