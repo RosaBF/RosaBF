@@ -20,7 +20,6 @@ I'm loving it and I do belive that in every App, web or desing to apply there is
 ### :postbox: How to reach me:
 
 <a href="https://www.linkedin.com/in/rosa-berned/"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://github.com/RosaBF"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-2f363d.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="mailto:rosaberned30@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
