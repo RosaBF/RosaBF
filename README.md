@@ -17,6 +17,8 @@ I'm loving it and I do belive that in every App, web or desing to apply there is
 - 💬 Ask me about movies, one of my passions!
 <hr/>
 
+[cv](https://github.com/RosaBF/RosaBF/desktop/Rosa_berned_cv.pdf)
+
 ### :postbox: How to reach me:
 
 <a href="https://www.linkedin.com/in/rosa-berned/"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
