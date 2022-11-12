@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rosa! I am a Jr.Front-End Developer. I have a background in the documentary world as a filmmaker and screenwriter and....yet, I have decided to turn my life around and immerse myself into the world of web development! 
+My name is Rosa! I am currently working as a Backend developer although I started my training as a Frontend. I have a background in the documentary world as a filmmaker and screenwriter and....yet, I have decided to turn my life around and immerse myself into the world of web development! 
 I'm loving it and I do belive that in every App, web or desing to apply there is a story to tell in order to get the best user experience  possible. 
 <hr/>
 
@@ -12,8 +12,8 @@ I'm loving it and I do belive that in every App, web or desing to apply there is
 
 
 
-- 🔭 I’m currently looking for my first experience as a Jr.Front-End Developer
-- 🌱 I’m currently reinforcing my last learnings with JavaScript, React, CSS and Backend
+- 🔭 I’m currently workink as a Backend Developer --> Node js. | TypeScript | Express.js | Mongo | Mongoose | Docker | Serverless | AWS
+- 🌱 I’m currently reinforcing my learnings with --> Microservices | kafka | Nest js. | Hexagonal Architecture
 - 💬 Ask me about movies, one of my passions!
 <hr/>
 
