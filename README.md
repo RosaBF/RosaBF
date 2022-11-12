@@ -12,8 +12,8 @@ I'm loving it and I do belive that in every App, web or desing to apply there is
 
 
 
-- 🔭 Stack --> Node js. | TypeScript | Express.js | Mongo | Mongoose | Docker | Serverless | AWS
-- 🌱 I’m currently reinforcing my learnings with --> Microservices | kafka | Nest js. | Hexagonal Architecture
+- 🔭 Stack --> Node .js | TypeScript | Express .js | Mongo | Mongoose | Docker | Serverless | AWS
+- 🌱 I’m currently reinforcing my learnings with --> Microservices | kafka | NestJS | Hexagonal Architecture
 - 💬 Ask me about movies, one of my passions!
 <hr/>
 
