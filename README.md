@@ -12,7 +12,7 @@ I'm loving it and I do belive that in every App, web or desing to apply there is
 
 
 
-- 🔭 Stack -->  Java | Spring boot | Node .js | TypeScript | Express .js | NestJS | Mongo | SQL | Docker 
+- 🔭 Stack -->  Node .js | TypeScript | Java | Spring boot | Express .js | NestJS | Mongo | SQL | Docker 
 - 🌱 I’m currently reinforcing my learnings with --> Microservices | kafka | Hexagonal Architecture
 - 💬 Ask me about movies, one of my passions!
 <hr/>
